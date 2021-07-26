@@ -35,7 +35,7 @@ We host a private LoRa network server (based on lorawan-server) and use Raspberr
 
 ![image](https://github.com/jackyle6/PID/blob/main/image/002.jpg) <br>
 ![image](https://github.com/jackyle6/PID/blob/main/image/003.jpg) <br>
-![image](https://github.com/jackyle6/PID/blob/main/image/004.jpg) <br>
+![image](https://github.com/jackyle6/PID/blob/main/image/0040.jpg) <br>
 ###  Your plan for software setup and configuration for the devices. This would presumably include remote updates and the ability for hosts to change wifi settings, via Helium's official app or otherwise.
 We will support the official Helium application and provide a customized setup and configuration environment based on OpenWrt. In order to ensure a good user experience, we are happy to do our best and work with the community to prioritize improving the official Helium application. For technology geeks, we recommend the OpenWrt version.
 
