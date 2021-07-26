@@ -4,6 +4,7 @@ E-sun Electronics Ltd/ Panther X
 # Summary
 E-sun Electronics understands the importance of a paradigm shift for decentralized wireless infrastructure powered by the Helium Blockchain. We are delighted to become a third-party manufacturer and build a high-efficiency regular hotspot (Panther X). In the near future, our aim is not just contributing the connective grid for the helium network, but also developing and providing the tools and sensors to the business parties.
  
+ ![image](https://github.com/jackyle6/PID/blob/main/image/001.png)
 
 # Company information
 E-sun Electronics Ltd, founded in 2014, is an intelligent manufacturing company based in Hong Kong. Panther X series Hotspot is E-sun's competitive product in the domain of IoT in the future decade. The engineering team at Panther X consists of seasoned industry veterans from tech, R&D, blockchain and manufacturing companies such as Canaan and Browan communications. They have developed many well-known and respected mining equipment such as Avalon. Panther X is committed to the perfect combination of the blockchain technology and Internet of Things, powering Helium to quickly achieve global network coverage and application launch.
@@ -30,11 +31,11 @@ Option:
 *	RTC
 
 ###  Evidence of a functioning prototype - photos, videos. Renderings are OK but physical prototypes are much, much better.
-We host a private LoRa network server (based on lorawan-server) and use Raspberry Pi 4 and an adapter board (self-designed and built) for the hardware test and the power consumption of the whole prototype is ~ 5W.
- 
- 
- 
+We host a private LoRa network server (based on lorawan-server) and use Raspberry Pi 4 and an adapter board (self-designed and built) for the hardware test and the power consumption of the whole prototype is ~ 5W.<br>
 
+![image](https://github.com/jackyle6/PID/blob/main/image/002.jpg) <br>
+![image](https://github.com/jackyle6/PID/blob/main/image/003.jpg) <br>
+![image](https://github.com/jackyle6/PID/blob/main/image/004.jpg) <br>
 ###  Your plan for software setup and configuration for the devices. This would presumably include remote updates and the ability for hosts to change wifi settings, via Helium's official app or otherwise.
 We will support the official Helium application and provide a customized setup and configuration environment based on OpenWrt. In order to ensure a good user experience, we are happy to do our best and work with the community to prioritize improving the official Helium application. For technology geeks, we recommend the OpenWrt version.
 
