@@ -8,7 +8,7 @@ E-sun Electronics understands the importance of a paradigm shift for decentraliz
 # Company information
 E-sun Electronics Ltd, founded in 2014, is an intelligent manufacturing company based in Hong Kong. Panther X series Hotspot is E-sun's competitive product in the domain of IoT in the future decade. The engineering team at Panther X consists of seasoned industry veterans from tech, R&D, blockchain and manufacturing companies such as Canaan and Browan communications. They have developed many well-known and respected mining equipment such as Avalon. Panther X is committed to the perfect combination of the blockchain technology and Internet of Things, powering Helium to quickly achieve global network coverage and application launch.
 
-Product Information
+# Product Information
 ###   What is your approximate price point?<br>
 $499
 
