@@ -13,17 +13,17 @@ E-sun Electronics Ltd, founded in 2014, is an intelligent manufacturing company 
 $499
 
 ###   Detailed hardware designs, including relevant parts<br>
-Helium Hotspot Indoor Miner Features
-* Concentrator based on the Semtech SX1302
-*	Broadcom BCM2711 quad-core Cortex-A72 (ARM v8) 64-bit SoC @ 1.5GHz
-*	4 GB LPDDR4
-*	ATECC508A compatible chip for swarm keys storage (e.g. ATECC108A, ATECC108, ATSHA204A, and ATSHA204)
-*	Bluetooth 5.0
-*	2.4 GHz and 5.0 GHz WiFi
-*	Gigabit Ethernet
-*	64 GB micro SD Card
-*	1 LED (with 3 colors) for status indication
-*	1 button for factory reset
+Helium Hotspot Indoor Miner Features<br>
+* Concentrator based on the Semtech SX1302<br>
+*	Broadcom BCM2711 quad-core Cortex-A72 (ARM v8) 64-bit SoC @ 1.5GHz<br>
+*	4 GB LPDDR4<br>
+*	ATECC508A compatible chip for swarm keys storage (e.g. ATECC108A, ATECC108, ATSHA204A, and ATSHA204)<br>
+*	Bluetooth 5.0<br>
+*	2.4 GHz and 5.0 GHz WiFi<br>
+*	Gigabit Ethernet<br>
+*	64 GB micro SD Card<br>
+*	1 LED (with 3 colors) for status indication<br>
+*	1 button for factory reset<br>
  
 Option:
 *	GPS
@@ -38,43 +38,43 @@ We host a private LoRa network server (based on lorawan-server) and use Raspberr
 ###  Your plan for software setup and configuration for the devices. This would presumably include remote updates and the ability for hosts to change wifi settings, via Helium's official app or otherwise.
 We will support the official Helium application and provide a customized setup and configuration environment based on OpenWrt. In order to ensure a good user experience, we are happy to do our best and work with the community to prioritize improving the official Helium application. For technology geeks, we recommend the OpenWrt version.
 
-###  What is your expected production and delivery timeline? Photos and videos welcome.
-Timeline:
-Pre-sale -15 August 2021
-Mass production - 25 August 2021
-Shipping to customers - Expected on Early September 2021
+###  What is your expected production and delivery timeline? Photos and videos welcome.<br>
+Timeline:<br>
+Pre-sale -15 August 2021<br>
+Mass production - 25 August 2021<br>
+Shipping to customers - Expected on Early September 2021<br>
 
 # Customer Support
 We will set up a team to provide customers with comprehensive pre-sales consultation and after-sales service. The customer service center which includes the pre-sale consulting department, technical service department, and product maintenance department. The technical service department is responsible for solving technical problems that may arise while the after-sales services focuses on reporting, processing and fixing the technical issues raised by customers. The product maintenance department is responsible for product maintenance and order traceability.
 
-We provide a 2-Year Warranty for our hardware.
+We provide a 2-Year Warranty for our hardware.<br>
 
-Customers can contact us via email, Discord, Twitter, Telegram, Instagram and official website.
+Customers can contact us via email, Discord, Twitter, Telegram, Instagram and official website.<br>
 
 # Hardware Security
-In terms of hardware security, we implement three levels of protection measures. The higher the level, the safer the system will be.
+In terms of hardware security, we implement three levels of protection measures. The higher the level, the safer the system will be.<br>
 
-Level 1: protect swarm_key with ATECC508A compatible ECC chips.
+Level 1: protect swarm_key with ATECC508A compatible ECC chips.<br>
 
-Level 2: Based on Level 1, the SSH access of the hotspot adopts a password-free scheme, which is carried out entirely through the private key, but the private key is not stored on the hotspot.
+Level 2: Based on Level 1, the SSH access of the hotspot adopts a password-free scheme, which is carried out entirely through the private key, but the private key is not stored on the hotspot.<br>
 
-Level 3: Based on Level 2, we add firmware signature support, but do not support third-party firmware upgrade.
+Level 3: Based on Level 2, we add firmware signature support, but do not support third-party firmware upgrade.<br>
 
 # Hardware Information
-*	Which security (swarm) element are you using?
-ATECC508A compatible ECC chips
+*	Which security (swarm) element are you using?<br>
+ATECC508A compatible ECC chips<br>
 
-* Which LoRa chipset are you planning to use in your gateway (ie SX1302/03 & SX1250s or SX1301/08 & SX1255/57)
-SX1302&SX1250
+* Which LoRa chipset are you planning to use in your gateway (ie SX1302/03 & SX1250s or SX1301/08 & SX1255/57)<br>
+SX1302&SX1250<br>
 
-*	Where are you sourcing your components from?
+*	Where are you sourcing your components from?<br>
 Our components are sourced from all over the world, both online and offline. We have established good cooperation with a number of big suppliers who reserve enough components for us. 
 
-*	How many radio modules/ concentrators can you procure?
+*	How many radio modules/ concentrators can you procure?<br>
 We aim to produce at least 10000 pcs every month.
 
 # Manufacturing Information
-BROWAN COMMUNICATIONS (referred to as Browan) is an important partner of E-sun, responsible for the mass production of Panther X.
+BROWAN COMMUNICATIONS (referred to as Browan) is an important partner of E-sun, responsible for the mass production of Panther X.<br>
 
 Browan is a professional wireless equipment company founded in 1999. The company is one of the Gemtek Group’s (Taiwan listed company, stock code 4906) companies that is focusing in leveraging the wireless technology Know-How accumulated over the years to address the emerging businesses of the Internet of Things. BROWAN, focuses on the integration of wireless technology such as WiFi, BLE, LTE and LoRa.
 
@@ -88,8 +88,8 @@ We have sufficient funding support to produce the hardware in large volumes. We 
 Our customer orders are growing significantly. We are expanding our assembly line in accordance with the demand growth. We firmly believe that the biggest risk may come from the shortage of related chips and various components. Therefore, enhancing and expanding our supply chain is the most important task in our industries.
 
 # Other information
-*	Contact info  
- Robert@panther.global
+*	Contact info<br>
+ Robert@panther.global<br>
 *	Twitter profile 
 https://twitter.com/PantherMiner<br>
 *	Other social profiles 
