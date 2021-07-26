@@ -33,7 +33,7 @@ Option:
 ###  Evidence of a functioning prototype - photos, videos. Renderings are OK but physical prototypes are much, much better.
 We host a private LoRa network server (based on lorawan-server) and use Raspberry Pi 4 and an adapter board (self-designed and built) for the hardware test and the power consumption of the whole prototype is ~ 5W.<br>
 
-![image](https://github.com/jackyle6/PID/blob/main/image/002.jpg) <br>
+![image](https://github.com/jackyle6/PID/blob/main/image/0020.jpg) <br>
 ![image](https://github.com/jackyle6/PID/blob/main/image/003.jpg) <br>
 ![image](https://github.com/jackyle6/PID/blob/main/image/0040.jpg) <br>
 ###  Your plan for software setup and configuration for the devices. This would presumably include remote updates and the ability for hosts to change wifi settings, via Helium's official app or otherwise.
