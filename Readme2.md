@@ -30,21 +30,21 @@ Panther X is committed to the perfect combination of blockchain technology and t
 
 | Hardware Specification |                                                              |
 | ---------------------- | ------------------------------------------------------------ |
-| CPU                    | Quad-core Cortex-A55 up to 1.8GHz                            |
-| Memory                 | DDR 4GB                                                      |
-| Storage                | eMMC 32GB+ TF Card 64GB                                      |
-| LoRa radio             | CN 470 SKU  、External SMA antenna                           |
-| Wi-Fi radio            | 2.4GHz 1Tx/1Rx 802.11 b/g/n 、Built-in antenna               |
-| BLE radio              | 2.4GHz BLE 5.2  、Built-in antenna                           |
-| Crypto chip            | Microchip ATECC608A                                          |
-| LAN interface          | RJ45 1Gbps x 1                                               |
-| TF                     | External TF card slot  、  Supports SDXC or higher speed     |
-| USB                    | External USB-A 2.0 connector 、  Reserved for future use     |
-| LEDs                   | Single-colored LED indicator (green) x 4   Power、Status  、Network 、 Bluetooth |
-| Button                 | Push-button (GPIO)                                           |
-| Environment            | Temp. operating -10°C ~ +40°C ambient  、Storage -20°C ~ +70°C ambient   、Humidity operating 5%RH ~ 95%RH (non-condensed  relative humidity)  、Altitude operating 0 ~ 3000 Meters |
-| IP ratings             | IP42 (plastic enclosure)                                     |
-| Power                  | DC jack  、 DC12V 1~1.5A                                     |
+| CPU                    | ●Quad-core Cortex-A55 up to 1.8GHz                           |
+| Memory                 | ●DDR 4GB                                                     |
+| Storage                | ●eMMC 32GB+ TF Card 64GB                                     |
+| LoRa radio             | ●CN 470 SKU  <br />●External SMA antenna                     |
+| Wi-Fi radio            | ●2.4GHz 1Tx/1Rx 802.11 b/g/n <br />●Built-in antenna         |
+| BLE radio              | ●2.4GHz BLE 5.2  <br />●Built-in antenna                     |
+| Crypto chip            | ●Microchip ATECC608A                                         |
+| LAN interface          | ●RJ45 1Gbps x 1                                              |
+| TF                     | ●External TF card slot    <br />●Supports SDXC or higher speed |
+| USB                    | ●External USB-A 2.0 connector   <br />●Reserved for future use |
+| LEDs                   | ●Single-colored LED indicator (green) x 4 <br />     ●Power<br />     ●Status  <br />     ●Network <br />     ●Bluetooth |
+| Button                 | ●Push-button (GPIO)                                          |
+| Environment            | ●Temp. operating -10°C ~ +40°C ambient  <br />●Storage -20°C ~ +70°C ambient  <br />●Humidity operating 5%RH ~ 95%RH (non-condensed  relative humidity)  <br />●Altitude operating 0 ~ 3000 Meters |
+| IP ratings             | ●IP42 (plastic enclosure)                                    |
+| Power                  | ●DC jack  <br />●DC12V 1~1.5A                                |
 
  
 
