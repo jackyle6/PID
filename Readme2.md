@@ -1,6 +1,6 @@
 # **Name**
 
-E-sun Electronics Ltd/ Panther X
+E-sun Electronics Ltd/ Panther X2
 
  
 
