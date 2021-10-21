@@ -6,7 +6,7 @@ Application to become an approved third party manufacturer as per HIP19
 
 # **Summary**
 
-Our mission is to provide the standard hardware and software solutions to power people’s network, revolutionize the way people connect things to the internet and realize long-range IoT solution deployments in every corner of the world. Innov has been creating cutting-edge IoT solutions for our customers, helping them increase productivity, enhance efficiency, strengthen market positions and outperform their competitors. We provide the best expertise and consultancy for different industries to meet their distinct business needs in applying IoT applications.
+Our mission is to provide the standard hardware and software solutions to power The People’s Network, revolutionize the way people connect things to the internet and realize long-range IoT solution deployments in every corner of the world. Innov has been creating cutting-edge IoT solutions for our customers, helping them increase productivity, enhance efficiency, strengthen market positions and outperform their competitors. We provide the best expertise and consultancy for different industries to meet their distinct business needs in applying IoT applications.
 
 # **Company information**
 
@@ -66,37 +66,37 @@ We use the ECC608 chip as recommended by Helium to store the encrypted swarm key
 
 **Which security (swarm) element are you using?** 
 
-ATECC608A compatible ECC chips
+ -ATECC608A compatible ECC chips
 
  
 
 **Which LoRa chipset are you planning to use in your gateway (ie SX1302/03 & SX1250s or SX1301/08 & SX1255/57) ?**
 
-SX1302&SX1250
+ -SX1302&SX1250
 
  
 
 **Where are you sourcing your components from?** 
 
-Mixture of China, domestic (USA) and Singapore suppliers.
+ -Mixture of China, domestic (USA) and Singapore suppliers.
 
  
 
 **How many radio modules/ concentrators can you procure?** 
 
-There is no limit depending on the market.
+ -There is no limit depending on the market.
 
  
 
 # **Manufacturing Information**
 
-We have long-standing business cooperation with many trusted manufacturing partners.
+ We have long-standing business cooperation with many trusted manufacturing partners.
 
  
 
 # **Proof of Identity**
 
-To be submitted privately to DeWi.
+ To be submitted privately to DeWi.
 
  
 
